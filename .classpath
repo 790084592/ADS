@@ -7,5 +7,14 @@
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="lib" path="D:/Users/xushSelf/json-20140107.jar"/>
+	<classpathentry kind="lib" path="C:/Users/xush/.m2/repository/org/fusesource/sigar/1.6.4/sigar-1.6.4.jar" sourcepath="C:/Users/xush/.m2/repository/org/fusesource/sigar/1.6.4/sigar-1.6.4-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.fusesource"/>
+			<attribute name="maven.artifactId" value="sigar"/>
+			<attribute name="maven.version" value="1.6.4"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
